@@ -1,0 +1,2 @@
+model_checkpoint_path: "rnn_dropout_ts_model"
+all_model_checkpoint_paths: "rnn_dropout_ts_model"
